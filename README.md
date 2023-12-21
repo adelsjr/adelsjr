@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 
+--- 
+### Who am I ?
+👋 Nice to meet you, my name is **Adelson**.<br>
+🇧🇷 I am a **Brazilian** guy, father of a 1 year old twins🍼🍼 and a 7 year old bealtiful child🧒.
+<br><br>
+I am passionate about technology and I work with it about 15 years, specifically with `cloud`, `devops` and `SRE` in a small and big companies, and recently (over 5 years from now) I had the opportunity to **led** engineering teams.
+
+> Sorry for tha lack of projects. I lost access of my old Github account 🤦‍♂️
+
 
 <!--
 **adelsjr/adelsjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
